@@ -4,8 +4,8 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SKA6T
 Tags: wp smtp,smtp,mail,email,phpmailer,mailer,wp mail,gmail,mail smtp,ssl,tls
 License: GPLv2
 Requires at least: 2.7
-Tested up to: 3.4.2
-Stable tag: 1.1.4
+Tested up to: 3.5
+Stable tag: 1.1.5
 
 WP SMTP can help us to send emails via SMTP instead of the PHP mail() function. 
 
@@ -26,7 +26,8 @@ If the field "From" was not a valid email address, or the field "Host" was left 
 
 Related Links:
 
-* <a href="http://boliquan.com/wp-smtp/">WP-SMTP (FAQ)</a> | <a href="http://wordpress.org/extend/plugins/wp-smtp/">Download</a>
+* <a href="http://boliquan.com/wp-smtp/">WP SMTP (FAQ)</a> | <a href="http://wordpress.org/extend/plugins/wp-smtp/">Download</a>
+* <a href="http://boliquan.com/wp-clean-up/">WP Clean Up</a> | <a href="http://wordpress.org/extend/plugins/wp-clean-up/">Download</a>
 * <a href="http://boliquan.com/wp-anti-spam/">WP Anti Spam</a> | <a href="http://wordpress.org/extend/plugins/wp-anti-spam/">Download</a>
 * <a href="http://boliquan.com/wp-code-highlight/">WP Code Highlight</a> | <a href="http://wordpress.org/extend/plugins/wp-code-highlight/">Download</a>
 * <a href="http://boliquan.com/wp-slug-translate/">WP Slug Translate</a> | <a href="http://wordpress.org/extend/plugins/wp-slug-translate/">Download</a>
@@ -46,6 +47,10 @@ Related Links:
 5. For more information of this plugin, please visit: [Plugin Homepage](http://boliquan.com/wp-smtp/ "WP SMTP").
 
 == Changelog ==
+
+= 1.1.5 =
+
+* Some optimization
 
 = 1.1.4 =
 
