@@ -77,7 +77,7 @@ WP SMTP
 		</th>
 		<td>
 			<label>
-				<input type="text" name="wp_smtp_from" value="<?php echo $wsOptions["from"]; ?>" size="43" />
+				<input type="text" name="wp_smtp_from" value="<?php echo $wsOptions["from"]; ?>" size="43" style="width:272px;height:24px;" />
 			</label>
 		</td>
 	</tr>
@@ -87,7 +87,7 @@ WP SMTP
 		</th>
 		<td>
 			<label>
-				<input type="text" name="wp_smtp_fromname" value="<?php echo $wsOptions["fromname"]; ?>" size="43" />
+				<input type="text" name="wp_smtp_fromname" value="<?php echo $wsOptions["fromname"]; ?>" size="43" style="width:272px;height:24px;" />
 			</label>
 		</td>
 	</tr>
@@ -97,7 +97,7 @@ WP SMTP
 		</th>
 		<td>
 			<label>
-				<input type="text" name="wp_smtp_host" value="<?php echo $wsOptions["host"]; ?>" size="43" />
+				<input type="text" name="wp_smtp_host" value="<?php echo $wsOptions["host"]; ?>" size="43" style="width:272px;height:24px;" />
 			</label>
 		</td>
 	</tr>
@@ -128,7 +128,7 @@ WP SMTP
 		</th>
 		<td>
 			<label>
-				<input type="text" name="wp_smtp_port" value="<?php echo $wsOptions["port"]; ?>" size="43" />
+				<input type="text" name="wp_smtp_port" value="<?php echo $wsOptions["port"]; ?>" size="43" style="width:272px;height:24px;" />
 			</label>
 		</td>
 	</tr>
@@ -154,7 +154,7 @@ WP SMTP
 		</th>
 		<td>
 			<label>
-				<input type="text" name="wp_smtp_username" value="<?php echo $wsOptions["username"]; ?>" size="43" />
+				<input type="text" name="wp_smtp_username" value="<?php echo $wsOptions["username"]; ?>" size="43" style="width:272px;height:24px;" />
 			</label>
 		</td>
 	</tr>
@@ -164,7 +164,7 @@ WP SMTP
 		</th>
 		<td>
 			<label>
-				<input type="password" name="wp_smtp_password" value="<?php echo $wsOptions["password"]; ?>" size="43" />
+				<input type="password" name="wp_smtp_password" value="<?php echo $wsOptions["password"]; ?>" size="43" style="width:272px;height:24px;" />
 			</label>
 		</td>
 	</tr>
@@ -196,7 +196,7 @@ WP SMTP
 		</th>
 		<td>
 			<label>
-				<input type="text" name="wp_smtp_to" value="" size="43" />
+				<input type="text" name="wp_smtp_to" value="" size="43" style="width:272px;height:24px;" />
 			</label>
 		</td>
 	</tr>
@@ -206,7 +206,7 @@ WP SMTP
 		</th>
 		<td>
 			<label>
-				<input type="text" name="wp_smtp_subject" value="" size="43" />
+				<input type="text" name="wp_smtp_subject" value="" size="43" style="width:272px;height:24px;" />
 			</label>
 		</td>
 	</tr>
@@ -216,7 +216,7 @@ WP SMTP
 		</th>
 		<td>
 			<label>
-				<textarea type="text" name="wp_smtp_message" value="" cols="37" rows="3" style="width:284px;height:62px;"></textarea>
+				<textarea type="text" name="wp_smtp_message" value="" cols="45" rows="3" style="width:284px;height:62px;"></textarea>
 			</label>
 		</td>
 	</tr>
