@@ -1,11 +1,11 @@
 === WP SMTP ===
 Contributors: boliquan
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SKA6TPPWSATKG&item_name=BoLiQuan&no_shipping=1&no_note=1&tax=0&currency_code=USD&lc=US&bn=PP%2dDonationsBF&charset=UTF%2d8
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SCWY6NPFRR8EY
 Tags: wp smtp,smtp,mail,email,phpmailer,mailer,wp mail,gmail,yahoo,mail smtp,ssl,tls
 License: GPLv2
 Requires at least: 2.7
 Tested up to: 3.9.1
-Stable tag: 1.1.8
+Stable tag: 1.1.9
 
 WP SMTP can help us to send emails via SMTP instead of the PHP mail() function. 
 
@@ -48,7 +48,7 @@ Related Links:
 
 == Changelog ==
 
-= 1.1.8 =
+= 1.1.9 =
 
 * Some optimization
 
